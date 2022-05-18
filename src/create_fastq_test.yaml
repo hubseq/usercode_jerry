@@ -1,0 +1,6 @@
+sequencer: Illumina
+paired-end: true
+num-reads: 50
+read-length: 100
+min-quality-score: 27
+max-quality-score: 27
